@@ -25,7 +25,7 @@ Mini-Online-Store/
 ├── index.html          # Home page (featured products)
 ├── women.html          # Women’s collection
 ├── men.html            # Men’s collection
-├── kids.html           # Kids’ collection
+├── kids.html             # Kids’ collection
 ├── about.html          # About the store
 ├── contact.html        # Contact form
 └── README.md           # Project documentation
